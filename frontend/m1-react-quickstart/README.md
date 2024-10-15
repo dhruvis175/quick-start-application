@@ -8,7 +8,9 @@ In the project directory, you must navigate to `frontend` -> `m1-react-quickstar
 Inside .env file add below details:
 
 REACT_APP_SERVER_URL = http://localhost:3000
+
 REACT_APP_M1_HOSTNAME = api.measureone.com
+
 REACT_APP_ACCESS_KEY = <your_access_key>
 
 Now navigate to the same location in your terminal and run :
