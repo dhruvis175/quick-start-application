@@ -17,13 +17,14 @@ REACT_APP_ACCESS_KEY = <your_access_key>
 ## Now navigate to the same location in your terminal and run :
 ### `npm install`
 
-Once node modules are installed, you can run :
+## Once node modules are installed, you can run :
 ### `npm start`
 
 This will start your frontend project with UI in the browser
 
 Now to start the node server, navigate to `node` folder and create a `.env` file
-Inside the .env file add the below details :
+
+## Inside the .env file add the below details :
 
 M1_API_URL = https://api.measureone.com
 
@@ -31,11 +32,11 @@ M1_CLIENT_ID = <your_client_id>
 
 M1_CLIENT_SECRET = <your_client_secret>
 
-Now open a new tab in the terminal and navigate to `node` folder, you can run : 
+## Now open a new tab in the terminal and navigate to `node` folder, you can run : 
 ### `npm install`
 
-Once node modules are installed, you can run :
-### `npm start`
+## Once node modules are installed, you can run :
+# `npm start`
 
 This will start the server
 
