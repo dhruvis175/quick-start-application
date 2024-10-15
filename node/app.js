@@ -20,7 +20,7 @@ const cors = require('cors');
 
 
 require("dotenv").config({
-  path: `config/environment/.env.local`,
+  path: `.env`,
 });
 
 // view engine setup
