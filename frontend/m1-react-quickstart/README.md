@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you must navigate to `frontend` -> `m1-react-quickstart` folder and create a `.env` file
-Inside .env file add below details :
+Inside the .env file add the below details :
 
 REACT_APP_SERVER_URL = http://localhost:3000
 
@@ -21,14 +21,16 @@ Once node modules are installed, you can run :
 
 This will start your frontend project with UI in the browser
 
-Now to start node server, navigate to `node` folder and create a `.env` file
-Inside .enc file add below details:
+Now to start the node server, navigate to `node` folder and create a `.env` file
+Inside the .env file add the below details :
 
 M1_API_URL = https://api.measureone.com
+
 M1_CLIENT_ID = <your_client_id>
+
 M1_CLIENT_SECRET = <your_client_secret>
 
-Now open a new tab in terminal and navigate to `node` folder, you can run : 
+Now open a new tab in the terminal and navigate to `node` folder, you can run : 
 ### `npm install`
 
 Once node modules are installed, you can run :
