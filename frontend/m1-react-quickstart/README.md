@@ -36,7 +36,7 @@ M1_CLIENT_SECRET = <your_client_secret>
 ### `npm install`
 
 ## Once node modules are installed, you can run :
-# `npm start`
+### `npm start`
 
 This will start the server
 
